@@ -1,0 +1,72 @@
+name: MFIL DAO improvement proposal
+description: All improvements to MFIL will be made through MIP.
+title: "[MIP] <Title of MIP>"
+labels: 'Proposal'
+body:
+- type: markdown
+  attributes:
+    value: |
+      To suggest improvements to MFIL here, please fill out the form below.
+- type: textarea
+  attributes:
+    label: MIP summary
+    render: text
+    description: Detail the goals and expected outcomes of the proposal. What problem does the proposal aim to solve, and what results are expected after the proposal is implemented.
+    placeholder: |
+                  Example
+                  1. ...
+                  2. ...
+                  3. ...
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: MIP motivation
+    render: text
+    description: Describe current problems or existing gaps. Describe the impact of these issues on relevant parties and why they need to be addressed.
+    placeholder: |
+                  Example
+                  1. ...
+                  2. ...
+                  3. ...
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: MIP content
+    render: text
+    description: Describe in detail the method and steps to implement and solve the problem. Why did you choose this way to implement the change, and what are the considerations and trade-offs. A description of alternative designs and related work that have been considered, along with their strengths and weaknesses, can be added.
+    placeholder: |
+                  Example
+                  1. ...
+                  2. ...
+                  3. ...
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Test case
+    render: text
+    description: More test cases can be added during the execution of the proposal.
+    placeholder: optional
+- type: dropdown
+  attributes:
+    label: Copyright exemption
+    description: If the proposal is technical, please provide a copyright exemption.
+    options:
+      - Apache License 2.0
+      - GNU General Public License v3.0
+      - MIT License
+      - BSD 2-Clause "Simplified" License
+      - BSD 3-Clause "New" or "Revised" License
+      - Boost Software License 1.0
+      - Creative Commons Zero v1.0 Universal
+      - Eclipse Public License 2.0
+      - GNU Affero General Public License v3.0
+      - GNU General Public License v2.0
+      - GNU Lesser General Public License v2.1
+      - Mozilla Public License 2.0
+      - The Unlicense
+      
+  
+  
