@@ -10,4 +10,4 @@ MFIL hopes to help storage providers solve the liquidity problem of stock comput
 
 |MIP #   | Title  | Type  | Author  | Status  |
 |---|---|---|---|---|
-|[001](https://github.com/sghmok/MIPs/blob/main/MIPS/mip-001.md)|MIP Purpose and Guidelines|MIP|@sghmok|Proposal|
+|[001](https://github.com/MFILDAO/MIPs/blob/main/MIPS/mip-001.md)|MIP Purpose and Guidelines|MIP|@sghmok|Proposal|
